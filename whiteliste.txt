@@ -1,0 +1,69 @@
+# Pi-hole Allowlist (Whitelist)
+# Erstellt am 2026-01-25
+
+amazon.de
+amazon.com
+github.com
+office.com
+onlyfans.com
+twitter.com
+apple.com
+netflix.com
+t.co
+
+# ----------------
+
+mask.icloud.com
+mask-h2.icloud.com
+ml.cdn-apple.com
+appleid.cdn-apple.com
+store.storeimages.cdn-apple.com
+captive.apple.com
+
+# --------------
+
+mail.google.com
+mail.google.de
+teams.events.data.microsoft.com
+m365.cloud.microsoft
+nexusrules.officeapps.live.com
+
+# ---------------
+
+homematic.com
+a.homematic.com
+lookup.homematic.com
+lookup.homematic-ip.com
+
+# ----------------
+
+thomas-krenn.com
+minitool.com
+awin1.com
+codepen.io
+
+# -------------
+
+de.ioam.de
+login.aliexpress.com
+osb-apps-v2.samsungqbe.com
+klarnamobiletiles.ampxdirect.com
+email.kaufland-marktplatz.de
+account-public-service-prod03.ol.epicgames.com
+account-public-service-prod.ak.epicgames.com
+rs-ny.rustdesk.com
+boot.net.anydesk.com
+cc-api-data.adobe.io
+m.stripe.network
+paddle.com
+statsig.anthropic.com
+us.mqtt.bambulab.com
+api.bambulab.com
+
+# ------------
+
+0.ubnt.pool.ntp.org
+1.ubnt.pool.ntp.org
+2.ubnt.pool.ntp.org
+3.ubnt.pool.ntp.org
+_dns.resolver.arpa
