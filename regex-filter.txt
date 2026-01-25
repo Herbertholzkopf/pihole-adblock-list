@@ -1,0 +1,43 @@
+# Pi-hole REGEX Filter
+# Diese Einträge müssen separat in Pi-hole unter "Regex Filters" eingetragen werden!
+# Erstellt am 2026-01-25
+
+# ============================================
+# Tracking & Telemetrie (Regex)
+# ============================================
+(\.|^)firetvcaptiveportal\.com$
+(\.|^)demdex\.net$
+(\.|^)googleads\.g\.doubleclick\.net$
+(\.|^)msn\.com$
+(\.|^)awstrack\.me$
+(\.|^)app\.adjust\.com$
+(\.|^)measure\.office\.com$
+
+# ============================================
+# Chinesische Dienste (Regex)
+# ============================================
+(\.|^)meituan\.com$
+(\.|^)163\.com$
+(\.|^)qq\.com$
+(\.|^)taobao\.com$
+(\.|^)sohu\.com$
+(\.|^)baidu\.com$
+
+# ============================================
+# Sonstiges (Regex)
+# ============================================
+(\.|^)fr-app-chat-global-xiaomi-net1-1667981913\.eu-central-1\.amazonaws\.com$
+
+# ============================================
+# HINWEIS ZUR VERWENDUNG:
+# ============================================
+# Diese Regex-Einträge können NICHT als normale Blocklist importiert werden!
+# 
+# So fügst du sie hinzu:
+# 1. Pi-hole Admin Interface öffnen
+# 2. Zu "Filters" → "Regex Filters" navigieren
+# 3. Jeden Regex-Eintrag einzeln hinzufügen
+# 4. Als "Blacklist" markieren
+# 
+# Die Regex-Syntax (\.|^) matched sowohl Subdomains als auch die Root-Domain
+# Beispiel: (\.|^)baidu\.com$ blockiert sowohl baidu.com als auch www.baidu.com

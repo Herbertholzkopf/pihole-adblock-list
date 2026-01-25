@@ -1,0 +1,58 @@
+# Pi-hole Blocklist
+# Erstellt am 2026-01-25
+
+# ============================================
+# Fake Streaming-Websites
+# ============================================
+watch-movies-time.club
+kinox-to.monster
+123moviesr.club
+filmfoflix.xyz
+streamkiste.quest
+filmstreaming-de.life
+movie4k.surf
+agacelebir.com
+ganzer-film.com
+stream-kinox.com
+google.maxmovies.stream
+imdbfilm.net
+chpok.site
+animesuge.to
+iyxwfilm.xyz
+hotflix32.net
+streamcloud-deutsch.net
+anicat.ru
+filmoflix.tv
+streamingvf-hd.com
+streammovie.live
+yesmovie.asia
+ugroocuw.net
+freemovies.vc
+freemovies.watch
+homeflix.to
+
+# ============================================
+# Tracking & Telemetrie
+# ============================================
+xp.apple.com
+samsung-smarthub.discovery.indazn.com
+metrics.plex.tv
+metaservices.microsoft.com
+
+# ============================================
+# Chinesische Dienste
+# ============================================
+meituan.com
+163.com
+qq.com
+taobao.com
+sohu.com
+baidu.com
+
+# ============================================
+# Sonstiges (Trash)
+# ============================================
+likeshoeees.com
+temu.com
+hbbtvopapps.org
+mx.freenet.de
