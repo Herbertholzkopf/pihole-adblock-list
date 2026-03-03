@@ -30,6 +30,11 @@ ugroocuw.net
 freemovies.vc
 freemovies.watch
 homeflix.to
+download-app.net
+filmgoflix.xyz
+play.allocine.xyz
+tspro.com.br
+yesmovies.asia
 
 # ============================================
 # Tracking & Telemetrie
