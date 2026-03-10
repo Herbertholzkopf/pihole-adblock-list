@@ -24,6 +24,26 @@ captive.apple.com
 
 # --------------
 
+signal.org
+chat.signal.org
+cdn.signal.org
+cdn2.signal.org
+cdn3.signal.org
+storage.signal.org
+updates.signal.org
+
+signal.art
+signal.group
+signal.link
+signal.me
+signal.tube
+
+whispersystems.org
+cdn.whispersystems.org
+textsecure-service.whispersystems.org
+
+# --------------
+
 mail.google.com
 mail.google.de
 teams.events.data.microsoft.com
@@ -43,6 +63,8 @@ thomas-krenn.com
 minitool.com
 awin1.com
 codepen.io
+github.githubassets.com
+avatars.githubusercontent.com
 
 # -------------
 
